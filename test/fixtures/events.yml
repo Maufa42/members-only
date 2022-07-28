@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  event_name: MyString
+  event_location: MyString
+  event_description: MyText
+  event_datetime: 2022-07-28 13:50:51
+
+two:
+  event_name: MyString
+  event_location: MyString
+  event_description: MyText
+  event_datetime: 2022-07-28 13:50:51
